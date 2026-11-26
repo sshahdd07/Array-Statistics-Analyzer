@@ -1,6 +1,6 @@
 # Array Statistics Analyzer
 A beginner-level C++ project that analyzes five numbers entered by the user and displays useful statistical results.
-## Project allows users to enter five numbers and calculates their sum, average, maximum, and minimum values. it also counts how many numbers are even and odd.
+## This Project allows users to enter five numbers and calculates their sum, average, maximum, and minimum values. it also counts how many numbers are even and odd.
 
 ## Features
 
